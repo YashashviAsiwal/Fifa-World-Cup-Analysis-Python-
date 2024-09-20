@@ -1,4 +1,3 @@
-**Description  FIFA World Cup Analysis: Tableau, Python (Jupyter Notebook), and PowerPoint**
 
 This **FIFA World Cup Analysis** is a comprehensive exploration of tournament data, created using a combination of **Tableau** for visualizations, **Python (Jupyter Notebook)** for data processing, and a **PowerPoint presentation** for sharing insights. The key features of the analysis include:
 
